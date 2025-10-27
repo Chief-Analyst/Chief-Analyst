@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chief-Analyst
-- 👀 I’m interested in data analysis
+- 👀 I'm an entry level data scientist
 - 🌱 I’m currently seeking an entry-level offer.
 
 <!---
