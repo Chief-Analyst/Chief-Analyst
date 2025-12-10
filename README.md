@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chief-Analyst
+- 👋 Hi, I’m Chukwuma Samuel Ifeanyichukwu
 - 👀 I'm an entry level data scientist
 - 🌱 I’m currently seeking an entry-level offer.
 
